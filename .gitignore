@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+resc2015_public_v4_resampled.csv
+resc2015_public_v4_resampled_all.csv
